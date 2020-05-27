@@ -1129,6 +1129,10 @@ section.lazy-placeholder:after {
 .cid-s07F4ViEVr P {
   color: #767676;
 }
+.cid-s07F4ViEVr .mbr-text,
+.cid-s07F4ViEVr .mbr-section-btn {
+  color: #55b4d4;
+}
 .cid-s07IxM2b17 {
   padding-top: 45px;
   padding-bottom: 15px;
@@ -1329,6 +1333,9 @@ section.lazy-placeholder:after {
 .cid-s07IxM2b17 a.img {
   pointer-events: none;
 }
+.cid-s07IxM2b17 H3 {
+  color: #55b4d4;
+}
 .cid-s07MZfgVuq {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1393,7 +1400,7 @@ section.lazy-placeholder:after {
 }
 .cid-s07KONsnf8 .price-figure {
   font-weight: 700;
-  color: #232323;
+  color: #ff3366;
 }
 @media (max-width: 550px) {
   .cid-s07KONsnf8 .price-figure {
@@ -1403,6 +1410,7 @@ section.lazy-placeholder:after {
 .cid-s07KONsnf8 .price-value {
   font-weight: 700;
   vertical-align: top;
+  color: #ff7f9f;
 }
 .cid-s07KONsnf8 hr {
   margin: 2rem 0;
